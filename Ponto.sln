@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ponto", "Ponto\Ponto.csproj", "{F2C84AEB-9B3C-4029-99DF-5099786A9CB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ponto.DTO", "Ponto.DTO\Ponto.DTO.csproj", "{856356ED-1660-45DB-861E-63EBAD4B92D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ponto.DAL", "Ponto.DAO\Ponto.DAL.csproj", "{297362FD-10E0-4B3A-966E-594697326D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C84AEB-9B3C-4029-99DF-5099786A9CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C84AEB-9B3C-4029-99DF-5099786A9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C84AEB-9B3C-4029-99DF-5099786A9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C84AEB-9B3C-4029-99DF-5099786A9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856356ED-1660-45DB-861E-63EBAD4B92D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856356ED-1660-45DB-861E-63EBAD4B92D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856356ED-1660-45DB-861E-63EBAD4B92D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856356ED-1660-45DB-861E-63EBAD4B92D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297362FD-10E0-4B3A-966E-594697326D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297362FD-10E0-4B3A-966E-594697326D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297362FD-10E0-4B3A-966E-594697326D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297362FD-10E0-4B3A-966E-594697326D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1159540-F09D-48EE-8935-9AE635E4DE29}
+	EndGlobalSection
+EndGlobal
